@@ -13,6 +13,6 @@ namespace ASPDotNetCoreMVC.Data
         {
 
         }
-        public DbSet<User> Users { get; set; }
+        public DbSet<Comment> Comments { get; set; }
     }
 }
